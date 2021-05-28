@@ -1,0 +1,4 @@
+name: Essentials FreeBuild
+version: ${project.version}
+main: net.theperfectgamers.elektrocloud.essentials.Essentials
+authors: [ ElektroCloud ]
